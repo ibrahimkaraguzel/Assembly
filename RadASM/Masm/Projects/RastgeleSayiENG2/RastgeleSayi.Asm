@@ -1,18 +1,18 @@
-; ÌÎÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÎ?
-; Ì?ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ?Ì?
-; Ì?? ÜÜÛÛÛÛÛÛÛÛÛ   ÜÜÛÛÛÛÛÛÛÜÜ   ÜÛÛÛÛÛÛÛÛÛÜ ?Ì?
-; Ì?? ÛÛÛÛÛÛÛÛÛßß   ÛÛÛÛÛÛÛÛÛßß   ßÛÛÛÛÛÛÛÛÛß ?Ì?
-; Ì?? ÛÛ            ÛÛß               ÛÛÛ     ?Ì?
-; Ì?? ÛÛ            ÛÛ                ÛÛÛ     ?Ì?
-; Ì?? ÛÛÛÛÛÛÛÛÛÜÜ   ÛÛ                ÛÛÛ     ?Ì?
-; Ì?? ßßÛÛÛÛÛÛÛÛÛ   ÛÛ                ÛÛÛ     ?Ì?
-; Ì??          ÛÛ   ÛÛ                ÛÛÛ     ?Ì?
-; Ì??          ÛÛ   ÛÛÜ               ÛÛÛ     ?Ì?
-; Ì?? ÜÜÛÛÛÛÛÛÛÛÛ   ÛÛÛÛÛÛÛÛÛÜÜ       ÛÛÛ     ?Ì?
-; Ì?? ÛÛÛÛÛÛÛÛÛßß   ßßÛÛÛÛÛÛÛßß       ßÛß     ?Ì?
-; Ì??                                         ?Ì?
-; Ì??                home of secret reversers®?Ì?
-; Ì?ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ?Ì?
+; ÃŒÃÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃŠÃ?
+; ÃŒ?ÃšÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„?ÃŒ?
+; ÃŒ?? ÃœÃœÃ›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›   ÃœÃœÃ›Ã›Ã›Ã›Ã›Ã›Ã›ÃœÃœ   ÃœÃ›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ãœ ?ÃŒ?
+; ÃŒ?? Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›ÃŸÃŸ   Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›ÃŸÃŸ   ÃŸÃ›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›ÃŸ ?ÃŒ?
+; ÃŒ?? Ã›Ã›            Ã›Ã›ÃŸ               Ã›Ã›Ã›     ?ÃŒ?
+; ÃŒ?? Ã›Ã›            Ã›Ã›                Ã›Ã›Ã›     ?ÃŒ?
+; ÃŒ?? Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›ÃœÃœ   Ã›Ã›                Ã›Ã›Ã›     ?ÃŒ?
+; ÃŒ?? ÃŸÃŸÃ›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›   Ã›Ã›                Ã›Ã›Ã›     ?ÃŒ?
+; ÃŒ??          Ã›Ã›   Ã›Ã›                Ã›Ã›Ã›     ?ÃŒ?
+; ÃŒ??          Ã›Ã›   Ã›Ã›Ãœ               Ã›Ã›Ã›     ?ÃŒ?
+; ÃŒ?? ÃœÃœÃ›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›   Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›ÃœÃœ       Ã›Ã›Ã›     ?ÃŒ?
+; ÃŒ?? Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›ÃŸÃŸ   ÃŸÃŸÃ›Ã›Ã›Ã›Ã›Ã›Ã›ÃŸÃŸ       ÃŸÃ›ÃŸ     ?ÃŒ?
+; ÃŒ??                                         ?ÃŒ?
+; ÃŒ??                home of secret reversersÂ®?ÃŒ?
+; ÃŒ?ÃƒÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„?ÃŒ?
 ; Random Number Generator v0.2
 ; _______________________________________________________________________________
 ; Author	: BlueDeviL <bluedevil@sctzine.com>
@@ -20,16 +20,16 @@
 ; IDE		: RADAssembler v2.2.2.0 <radasm.cherrytree.at>
 ; Template	: BlueDeviL // SCT
 ; Tarih		: 24/10/2012
-; ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+; Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯Â¯
 ;																  www.sctzine.com
 
-.586					;kullandığımız opcodeların hangi işlemci setine bağlı olduğu
-						;normalde 386 kullanırım ben ama rastgele sayı üretmek için 
-						;kullandığım RDTSC fonksiyonu en az .586 işlemci komut setinde
+.586					;kullandÃ½Ã°Ã½mÃ½z opcodelarÃ½n hangi iÃ¾lemci setine baÄŸlÃ½ olduÃ°u
+						;normalde 386 kullanÃ½rÃ½m ben ama rastgele sayÃ½ Ã¼retmek iÃ§in 
+						;kullandÃ½Ã°Ã½m RDTSC fonksiyonu en az .586 iÃ¾lemci komut setinde
 						;bulunuyor.
 						;.xmm
-.model flat, stdcall	;32 bit hafıza modeli
-option casemap :none	;büyük küçük harfe duyarlı
+.model flat, stdcall	;32 bit hafÃ½za modeli
+option casemap :none	;bÃ¼yÃ¼k kÃ¼Ã§Ã¼k harfe duyarlÃ½
 
 include RastgeleSayi.inc
 
@@ -39,7 +39,7 @@ start:
 
 	invoke GetModuleHandle,NULL
 	mov		hInstance,eax
-	invoke LoadCursor,NULL,IDC_HAND;linke yükleyeceğimiz imlecin handle'ını al
+	invoke LoadCursor,NULL,IDC_HAND;linke yÃ¼kleyeceÃ°imiz imlecin handle'Ã½nÃ½ al
 	mov hImlec,eax
     invoke InitCommonControls
 	invoke DialogBoxParam,hInstance,pencere,NULL,addr DlgProc,NULL
@@ -47,7 +47,7 @@ start:
 	
 	
 ImlecYukle proc hWin:HWND,uMsg:UINT,wParam:WPARAM,lParam:LPARAM
-;bu işlem ile linkin üzerine gelindiğinde imleç değişecek
+;bu iÃ¾lem ile linkin Ã¼zerine gelindiÃ°inde imleÃ§ deÃ°iÃ¾ecek
   .if uMsg==WM_SETCURSOR
     invoke SetCursor, hImlec
   .else
@@ -65,30 +65,30 @@ DlgProc proc hWin:HWND,uMsg:UINT,wParam:WPARAM,lParam:LPARAM
 	mov		eax,uMsg
 	.if eax==WM_INITDIALOG
 		invoke LoadIcon,hInstance,5001	;ikonumuzu ekledik
-										;ancak prog. çalışınca sol üstte ikon yok
-										;bunu gidermek için ise:
+										;ancak prog. Ã§alÃ½Ã¾Ã½nca sol Ã¼stte ikon yok
+										;bunu gidermek iÃ§in ise:
 		mov hIkon,eax
 		invoke SendMessage,hWin,WM_SETICON,ICON_SMALL,hIkon;ile
 		;pencereye de ikon ekliyoruz
 		
 		
-		invoke SerialUret,hWin;sonrada seriali o isme göre üretsin
+		invoke SerialUret,hWin;sonrada seriali o isme gÃ¶re Ã¼retsin
 		
-		;İmlecYukle işlemini lblLINK ile ilişkilendir
+		;ÃmlecYukle iÃ¾lemini lblLINK ile iliÃ¾kilendir
 		invoke GetDlgItem,hWin,lblLINK
 		push eax
 		invoke SetWindowLong,eax,GWL_WNDPROC,ADDR ImlecYukle
 		pop edx
 		invoke SetWindowLong,edx,GWL_USERDATA,eax
 		
-		;Menü butonlarını silmek istiyorum
-		;Bu sebeple önce menünün handle'ını alıyorum
-		;daha sonra istediğim menü tuşlarını sileceğim
+		;MenÃ¼ butonlarÃ½nÃ½ silmek istiyorum
+		;Bu sebeple Ã¶nce menÃ¼nÃ¼n handle'Ã½nÃ½ alÃ½yorum
+		;daha sonra istediÃ°im menÃ¼ tuÃ¾larÃ½nÃ½ sileceÃ°im
 		;WM_SYSCOMMAND --> win32.hlp den inceleyin
 		invoke GetSystemMenu,hWin,FALSE
 		mov esi,eax
-		invoke DeleteMenu,esi,SC_RESTORE,MF_BYCOMMAND;önceki boyut iptal
-		invoke DeleteMenu,esi,SC_MAXIMIZE,MF_BYCOMMAND;ekranı kapla iptal
+		invoke DeleteMenu,esi,SC_RESTORE,MF_BYCOMMAND;Ã¶nceki boyut iptal
+		invoke DeleteMenu,esi,SC_MAXIMIZE,MF_BYCOMMAND;ekranÃ½ kapla iptal
 		invoke DeleteMenu,esi,SC_SIZE,MF_BYCOMMAND;boyut iptal
 
 	.elseif eax==WM_COMMAND
@@ -97,15 +97,15 @@ DlgProc proc hWin:HWND,uMsg:UINT,wParam:WPARAM,lParam:LPARAM
 		shr edx,16
 		
 		.if dx==BN_CLICKED
-			.if ax==lblLINK;web adresimizin olduğu yeremi tıklandı??
+			.if ax==lblLINK;web adresimizin olduÃ°u yeremi tÃ½klandÃ½??
 				invoke ShellExecute,hWin,ADDR TarayiciyaGit,ADDR SCTweb,NULL,NULL,0
 			.endif
 		.endif
 		
-		.if ax==btnUret					;kullancı üret tuşuna mı bastı?
+		.if ax==btnUret					;kullancÃ½ Ã¼ret tuÃ¾una mÃ½ bastÃ½?
 			invoke SerialUret,hWin
 		.endif
-		.if ax==btnCikis				;eğer kullanıcı Çıkış tuşuna basarsa
+		.if ax==btnCikis				;eÃ°er kullanÃ½cÃ½ Ã‡Ã½kÃ½Ã¾ tuÃ¾una basarsa
 			invoke EndDialog,hWin,0		;pencereyi kapat
 			ret
 		.endif
